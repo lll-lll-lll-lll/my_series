@@ -1,4 +1,1 @@
-## export command
-```sh
-cue export filename.cue >> jsonname.json
-```
+# 勉強したことをまとめるリポジトリ
