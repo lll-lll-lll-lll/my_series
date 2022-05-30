@@ -1,0 +1,12 @@
+### dockerの立ち上げ
+$ docker-compose up -d
+$ docker-compose down
+
+# 実行
+$docker-compose exec app go run main.go
+ホットリード化
+$docker-compose exec app realize start
+
+学習教材
+https://go.dev/doc/effective_go
+上記をこなしたら、実際にアプリ作成
