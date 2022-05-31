@@ -1,0 +1,23 @@
+{
+  "name": "my_series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lll-lll-lll-lll/my_series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lll-lll-lll-lll/my_series/issues"
+  },
+  "homepage": "https://github.com/lll-lll-lll-lll/my_series#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
