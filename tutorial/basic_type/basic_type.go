@@ -92,6 +92,5 @@ func struct_func(){
 	var n int = 10
 	m := MyInt(n)
 	n = int(m)
-
 }
 
